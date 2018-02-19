@@ -1,4 +1,5 @@
 // Esto hace login
-function login(var username, var password, var token){
-	hacerlogin(username, password, token);
+
+function login(var username, var password, var token, var noSoyRobot){
+	hacerlogin(username, password, token, noSoyRobot);
 }
