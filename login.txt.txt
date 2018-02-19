@@ -1,0 +1,4 @@
+// Esto hace login
+function login(var username, var password){
+	hacerlogin(username, password);
+}
