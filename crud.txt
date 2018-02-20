@@ -1,1 +1,2 @@
-function verItem(id);
+function verItem(id)
+	var x = 0;
